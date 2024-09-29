@@ -18,7 +18,7 @@ O Sistema de Gerenciamento de Pacientes (PMS) é uma aplicação desenvolvida pa
 
 -  **Documentação SWAGGER:**
   - [SWAGGER](https://swagger.io/)
-http://localhost:8080/swagger-ui/index.html#/
+  - [DOCUMENTAÇÃO] http://localhost:8080/swagger-ui/index.html#/
 
 ## Funcionalidades
 
