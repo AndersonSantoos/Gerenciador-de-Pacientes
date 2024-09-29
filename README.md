@@ -73,8 +73,17 @@ O projeto está organizado nas seguintes pastas:
   - `MedicoRoutes`
   - `AdministradorRoutes`
 
+## Futuras atualizações
+ - Implementar segurança e autenticação.
+ - Melhorar a interface do usuário. 
+ - Integrar com novas APIs de saúde.
+ - Adicionar novas funcionalidades conforme necessário.
+
 ## Instruções de Instalação
 
 1. **Clone o repositório:**
    ```bash
-   git clone <https://github.com/AndersonSantoos/Gerenciador-de-Pacientes.>
+   - Git clone <https://github.com/AndersonSantoos/Gerenciador-de-Pacientes.>
+   - Mysql - Baixar e instalar o software. Além disso, uma vez instalado, criar um banco com o nome gestao;
+
+   
