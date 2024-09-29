@@ -72,4 +72,4 @@ O projeto está organizado nas seguintes pastas:
 
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-repositorio>
+   git clone <https://github.com/AndersonSantoos/Gerenciador-de-Pacientes.>
