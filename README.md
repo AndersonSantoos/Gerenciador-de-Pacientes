@@ -11,12 +11,13 @@ O Sistema de Gerenciamento de Pacientes (PMS) é uma aplicação desenvolvida pa
   - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
   - [Hibernate](https://hibernate.org/)
   - [MySQL](https://www.mysql.com/)
-  - [SWAGGER](https://swagger.io/)
+  
 
 - **Frontend:**
   - [Thymeleaf](https://www.thymeleaf.org/)
 
 -  **Documentação SWAGGER:**
+  - [SWAGGER](https://swagger.io/)
 http://localhost:8080/swagger-ui/index.html#/
 
 ## Funcionalidades
