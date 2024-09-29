@@ -84,6 +84,6 @@ O projeto está organizado nas seguintes pastas:
 1. **Clone o repositório:**
    ```bash
    - Git clone <https://github.com/AndersonSantoos/Gerenciador-de-Pacientes.>
-   - Mysql - Baixar e instalar o software. Além disso, uma vez instalado, criar um banco com o nome gestao;
+   - Mysql - Baixar e instalar o software. Além disso, uma vez instalado, criar um banco com o nome gestao.
 
    
