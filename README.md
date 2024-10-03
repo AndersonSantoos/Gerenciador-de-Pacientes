@@ -54,24 +54,26 @@ O projeto está organizado nas seguintes pastas:
   - `ConsultaController`
   - `MedicoController`
   - `AdministradorController`
+  - `PrescricaoController`
+  - `AgendamentoController`
+  
 
 - **Service:** Contém a lógica de negócios do sistema.
   - `PacienteService`
   - `ConsultaService`
   - `MedicoService`
   - `AdministradorService`
+  - `PrescricaoService`
+  - `AgendamentoService`
 
 - **Repository:** Contém as interfaces que gerenciam a persistência de dados.
   - `PacienteRepository`
   - `ConsultaRepository`
   - `MedicoRepository`
   - `AdministradorRepository`
+  - `PrescricaoRepository`
+  - `AgendamentoRepository`
 
-- **Routes:** Contém as classes que definem as rotas da aplicação.
-  - `PacienteRoutes`
-  - `ConsultaRoutes`
-  - `MedicoRoutes`
-  - `AdministradorRoutes`
 
 ## Futuras atualizações
  - Implementar segurança e autenticação.
