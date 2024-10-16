@@ -11,9 +11,14 @@ O Sistema de Gerenciamento de Pacientes (PMS) é uma aplicação desenvolvida pa
   - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
   - [Hibernate](https://hibernate.org/)
   - [MySQL](https://www.mysql.com/)
+  
 
 - **Frontend:**
   - [Thymeleaf](https://www.thymeleaf.org/)
+
+-  **Documentação SWAGGER:**
+  - [SWAGGER](https://swagger.io/)
+  - [DOCUMENTAÇÃO] http://localhost:8080/swagger-ui/index.html#/
 
 ## Funcionalidades
 
@@ -49,27 +54,38 @@ O projeto está organizado nas seguintes pastas:
   - `ConsultaController`
   - `MedicoController`
   - `AdministradorController`
+  - `PrescricaoController`
+  - `AgendamentoController`
+  
 
 - **Service:** Contém a lógica de negócios do sistema.
   - `PacienteService`
   - `ConsultaService`
   - `MedicoService`
   - `AdministradorService`
+  - `PrescricaoService`
+  - `AgendamentoService`
 
 - **Repository:** Contém as interfaces que gerenciam a persistência de dados.
   - `PacienteRepository`
   - `ConsultaRepository`
   - `MedicoRepository`
   - `AdministradorRepository`
+  - `PrescricaoRepository`
+  - `AgendamentoRepository`
 
-- **Routes:** Contém as classes que definem as rotas da aplicação.
-  - `PacienteRoutes`
-  - `ConsultaRoutes`
-  - `MedicoRoutes`
-  - `AdministradorRoutes`
+
+## Futuras atualizações
+ - Implementar segurança e autenticação.
+ - Melhorar a interface do usuário. 
+ - Integrar com novas APIs de saúde.
+ - Adicionar novas funcionalidades conforme necessário.
 
 ## Instruções de Instalação
 
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-repositorio>
+   - Git clone <https://github.com/AndersonSantoos/Gerenciador-de-Pacientes.>
+   - Mysql - Baixar e instalar o software. Além disso, uma vez instalado, criar um banco com o nome gestao.
+
+   
